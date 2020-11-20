@@ -11,3 +11,6 @@ Esse é o repositório da nossa aula de Javascript, na qual vamos fazer um jogo 
 
 
 ## 🚀 Let's code! 🚀
+
+
+Arquivo original criado pela Professora Gabriela...
